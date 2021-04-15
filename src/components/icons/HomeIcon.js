@@ -5,7 +5,7 @@ const HomeIcon = () => {
     return (
         <div>
             <PersonOutlineIcon style={{ fontSize: 50 }} />
-            <p class="p-nav">Home</p>
+            <p className="p-nav">Home</p>
         </div>
     );
 }

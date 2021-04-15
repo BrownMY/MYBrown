@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { AccessAlarm, ThreeDRotation } from '@material-ui/icons';
 
 ReactDOM.render(
   <React.StrictMode>

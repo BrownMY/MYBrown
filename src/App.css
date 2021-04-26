@@ -174,3 +174,46 @@ h3 {
   text-align: center;
   letter-spacing: 3px;
 }
+
+          /* PROJECTS */
+
+.project-bg {
+  background-image: url('https://res.cloudinary.com/doihe1pi6/image/upload/v1618961794/nico-mksmc-caH-ZLrisZA-unsplash_ovazv5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.project-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.project {
+  max-width: 450px;
+  max-height: 300px;
+  margin: 5px;
+  overflow: hidden;
+}
+
+.img1 {
+  height: 380px;
+  width: 500px;
+  z-index: 0;
+
+}
+
+.img2 {
+  position: absolute;
+  height: 380px;
+  width: 500px;
+
+}
+
+.img1: hover {
+  z-index: 0;
+}
+
+

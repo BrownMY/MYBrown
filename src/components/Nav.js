@@ -1,5 +1,6 @@
 import React from 'react';
 import Home from './Home'
+import Projects from './Projects'
 import HomeIcon from './icons/HomeIcon';
 import PortfolioIcon from './icons/PortfolioIcon';
 import ResumeIcon from './icons/ResumeIcon';
@@ -21,7 +22,7 @@ const Nav = () => {
                 </section>
 
                 <section id='second'>
-                    <h1>Second</h1>
+                    <Projects />
                 </section>
 
                 <section id='third'>

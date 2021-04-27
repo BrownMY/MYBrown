@@ -181,6 +181,8 @@ h3 {
   background-image: url('https://res.cloudinary.com/doihe1pi6/image/upload/v1618961794/nico-mksmc-caH-ZLrisZA-unsplash_ovazv5.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
+  height: 100%;
 }
 
 .project-container {
@@ -189,31 +191,37 @@ h3 {
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
+  max-width: 800px;
+  max-height: 650px;
 }
 
 .project {
   max-width: 450px;
-  max-height: 300px;
+  max-height: 280px;
+  margin-top: 15px;
   margin: 5px;
   overflow: hidden;
 }
 
 .img1 {
-  height: 380px;
-  width: 500px;
-  z-index: 0;
+  height: 290px;
+  width: 450px;
+  z-index: 1;
 
 }
 
 .img2 {
   position: absolute;
-  height: 380px;
-  width: 500px;
+  height: 290px;
+  width: 450px;
+  z-index: 0;
 
 }
 
-.img1: hover {
+.img1:hover {
   z-index: 0;
+  width: 3px;
+
 }
 
 

@@ -43,7 +43,7 @@
 }
 
 .container {
-  background: #191919;
+  background: transparent;
   min-height: 100vh;
   font-family: Montserrat, sans-serif;
 }
@@ -73,7 +73,7 @@ section {
     top: 0;
     height: 100vh;
     width: 0;
-    opacity: 0;
+    /* opacity: 0; */
     transition: all ease-in .5s;
     display: flex;
     justify-content: center;
@@ -130,6 +130,48 @@ section:target h1 {
   }
 }
 
+          /* HOMEPAGE */
+.homepage-section {
+  width: 100%;
+  height: 100%;
+  background: #eaffae;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: absolute;
+  z-index: 2;
+}
+
+.wrapper {
+  height: 100%;
+  width: 50%;
+  background: #f55757;
+  overflow: hidden;
+  color: #eaffae;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.sliding {
+  position: absolute;
+  top: 50%;
+  white-space: nowrap;
+  font-size: 12em;
+  line-height: 220px;
+  overflow: hidden;
+  font-family: "arial black";
+  animation: animate 20s linear infinite;
+
+}
+
+@keyframes animate {
+  0% {
+    transform: translate(0, -50%);
+  }
+  100% {
+    transform: translate(-50%, -50%);
+  }
+}
           /* Aboutme Page */
 
 .about-container {
@@ -191,26 +233,26 @@ h3 {
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
-  max-width: 800px;
+  /* max-width: 800px; */
   max-height: 650px;
 }
 
 .project {
-  max-width: 450px;
-  max-height: 280px;
+  max-width: 490px;
+  max-height: 300px;
   margin-top: 15px;
   margin: 5px;
   overflow: hidden;
 }
 
 .img1 {
-  height: 290px;
-  width: 450px;
+  height: 330px;
+  width: 490px;
   z-index: 1;
 
 }
 
-.img2 {
+/* .img2 {
   position: absolute;
   height: 290px;
   width: 450px;
@@ -222,6 +264,13 @@ h3 {
   z-index: 0;
   width: 3px;
 
+} */
+
+          /* MOBILE SIZING */
+
+@media only screen and (max-device-width: 480px) {
+  .about-main {
+   background-color: red; 
+  }
+  
 }
-
-

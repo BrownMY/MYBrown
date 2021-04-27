@@ -5,7 +5,7 @@ const Projects = () => {
     <div class="project-bg">
       <div class="project-container">
         <div class="project" id="project1">
-          <img
+          <img 
             class="img1"
             src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526306/selene1_etkknp.png"
           />

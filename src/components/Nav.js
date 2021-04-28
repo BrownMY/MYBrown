@@ -5,11 +5,11 @@ import HomeIcon from "./icons/HomeIcon";
 import PortfolioIcon from "./icons/PortfolioIcon";
 import ResumeIcon from "./icons/ResumeIcon";
 import ContactIcon from "./icons/ContactIcon";
+import { useState} from 'react'
 
 const Nav = () => {
   return (
     <div>
-        <h1>HELLO</h1>
       <section class="homepage-section">
         <span class="sliding">
           <span>MOCHA </span>
@@ -28,7 +28,7 @@ const Nav = () => {
           </span>
         </div>
       </section>
-      <nav>
+      <nav> 
         <a href="#first">
           <HomeIcon />
         </a>

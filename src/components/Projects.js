@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div class="project-bg">
       <div class="project-container">
-        <a href="https://seleneshop.herokuapp.com/">
+        <a href="https://seleneshop.herokuapp.com/" target="_blank" rel="noreferrer">
           <div class="project" id="project1">
             <div class="app-descrip"><p>An online self-care retail shop. Created as a team of three.</p><br /><span>Django | Python | PostgreSQL</span></div>
             <img
@@ -17,7 +17,7 @@ const Projects = () => {
             alt="A page for the webapp, Selene"/> */}
           </div>
         </a>
-        <a href="http://farmony-2.herokuapp.com/">
+        <a href="http://farmony-2.herokuapp.com/" target="_blank" rel="noreferrer">
           <div class="project" id="project2">
             <div class="app-descrip"><p>A social media app for connecting communities and their local farmers. Created as a team of three.</p><br /><span> MongoDB | Mongoose | React | Javascript | Node.js</span></div>
             <img
@@ -30,7 +30,7 @@ const Projects = () => {
             alt="A page for the webapp, Farmony"/> */}
           </div>
         </a>
-        <a href="https://m-u-s-e.herokuapp.com/">
+        <a href="https://m-u-s-e.herokuapp.com/" target="_blank" rel="noreferrer">
           <div class="project" id="project3">
             <div class="app-descrip"><p>Muse is a creative prompt app for helping visual artists overcome artist's block. Uses API from Harvard and Rijks collections.</p><br /><span>Express.js | Sequelize | PostgreSQL | Node.js</span></div>
             <img
@@ -43,7 +43,7 @@ const Projects = () => {
             alt="A page for the webapp, Muse"/> */}
           </div>
         </a>
-        <a href="https://brownmy.github.io/Project-1-Game/">
+        <a href="https://brownmy.github.io/Project-1-Game/" target="_blank" rel="noreferrer">
           <div class="project" id="project4">
             <div class="app-descrip"><p>Door Defense is my first ever app built. It is inspired by my experience as an essential worker during a global pandemic.</p><br /><span>HTML | CSS | Javascript</span></div>
             <img

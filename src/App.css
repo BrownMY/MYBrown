@@ -406,13 +406,20 @@ a {
   h1 {
     margin-left: 25px;
   }
+  
   .about-main {
-    margin-top: 930px;
+    margin-top: 1480px;
     width: 280px;
+    margin-left: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+  }
+
+  .me-img {
+    width: 200px;
+    height: auto;
   }
 
   .about-brand {

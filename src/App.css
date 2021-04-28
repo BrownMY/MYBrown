@@ -167,10 +167,11 @@ section:target h1 {
   left: -5px;
   color:rgb(248, 152, 43);
   white-space: nowrap;
-  font-size: 12em;
+  font-size: 18em;
   line-height: 220px;
   overflow: hidden;
-  font-family: "arial black";
+  font-family: 'Abel', sans-serif;
+  letter-spacing: 2px;
   animation: animate 20s linear infinite;
 }
 
@@ -179,10 +180,11 @@ section:target h1 {
   top: 50%;
   left: 0px;
   white-space: nowrap;
-  font-size: 12em;
+  font-size: 18em;
   line-height: 220px;
   overflow: hidden;
-  font-family: "arial black";
+  letter-spacing: 2px;
+  font-family: 'Abel', sans-serif;
   animation: animate 20s linear infinite;
 }
 
@@ -217,6 +219,9 @@ section:target h1 {
 
 .h3-about {
   color: rgb(254, 255, 218);
+  font-size: 30px;
+  font-family: 'Abel', sans-serif;
+  margin-top: 10px;
   
 }
 
@@ -225,7 +230,7 @@ section:target h1 {
   font-family: "Quicksand", sans-serif;
   font-weight: 300;
   max-width: 900px;
-  margin-top: 450px;
+  margin-top: 500px;
   color: rgb(254, 255, 218);
   font-size: 20px;
   /* border: 2px solid #ffe4bd; */
@@ -236,7 +241,7 @@ section:target h1 {
 
 .about-brand {
   margin: 0 auto;
-  padding: 40px;
+  padding: 30px;
 }
 
 .me-img {
@@ -247,8 +252,9 @@ section:target h1 {
 
 h1 {
   position: absolute;
-  font-family: 'Poppins', sans-serif;
-  letter-spacing: 8px;
+  font-family: 'Abel', sans-serif;
+  font-style: italic;
+  letter-spacing: 10px;
   top: 0;
   padding: 15px;
   width: 100%;
@@ -262,11 +268,13 @@ h3 {
 .p-home {
   font-size: 20px;
   text-align: center;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 
 h4 {
   padding-top: 30px;
+  font-family: 'Abel', sans-serif;
+  letter-spacing: 3px;
 }
 
 a {

@@ -13,7 +13,7 @@ const Nav = () => {
         <span class="sliding">
           <span>MOCHA </span>
           <span>BROWN</span>
-          <span> - </span>
+          <span> ❁ </span>
           <span>MOCHA </span>
           <span>BROWN</span>
         </span>
@@ -21,7 +21,7 @@ const Nav = () => {
           <span class="sliding2">
             <span>MOCHA </span>
             <span>BROWN</span>
-            <span> - </span>
+            <span> ❁ </span>
             <span>MOCHA </span>
             <span>BROWN</span>
           </span>

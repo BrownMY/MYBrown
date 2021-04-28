@@ -19,7 +19,7 @@ const Nav = () => {
           <span>BROWN</span>
         </span>
         <div class="wrapper">
-          <span class="sliding">
+          <span class="sliding2">
             <span>MOCHA </span>
             <span>BROWN</span>
             <span> - </span>

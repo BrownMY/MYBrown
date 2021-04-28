@@ -150,7 +150,8 @@ section:target h1 {
 .wrapper {
   height: 100%;
   width: 50%;
-  background: #f55757;
+  background-color: rgb(248, 152, 43);
+  background-size: cover;
   overflow: hidden;
   color: #eaffae;
   position: absolute;
@@ -161,12 +162,26 @@ section:target h1 {
 .sliding {
   position: absolute;
   top: 50%;
+  left: -5px;
+  color:rgb(248, 152, 43);
   white-space: nowrap;
   font-size: 12em;
   line-height: 220px;
   overflow: hidden;
   font-family: "arial black";
-  animation: animate 0s linear infinite;
+  animation: animate 20s linear infinite;
+}
+
+.sliding2 {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  white-space: nowrap;
+  font-size: 12em;
+  line-height: 220px;
+  overflow: hidden;
+  font-family: "arial black";
+  animation: animate 20s linear infinite;
 }
 
 @keyframes animate {

@@ -1,5 +1,4 @@
 import React from "react";
-import Nav from "./Nav";
 
 const Home = () => {
   return (
@@ -18,6 +17,9 @@ const Home = () => {
           PostgreSQL ⁎ Sequelize ⁎ ORM ⁎ MongoDB ⁎ Mongoose ⁎ RESTful ⁎ Routing
           ⁎ JSON ⁎ APIs
         </p>
+        <h4>Resume</h4>
+        <p class="click-resume">Click <a href="public\Mocha-Brown-Resume.pdf" download>here</a> to view my resume.</p>
+        
       </main>
     </div>
   );

@@ -4,9 +4,7 @@ import Projects from "./Projects";
 import Contact from "./Contact";
 import HomeIcon from "./icons/HomeIcon";
 import PortfolioIcon from "./icons/PortfolioIcon";
-import ResumeIcon from "./icons/ResumeIcon";
 import ContactIcon from "./icons/ContactIcon";
-import { useState} from 'react'
 
 const Nav = () => {
   return (
@@ -36,9 +34,6 @@ const Nav = () => {
         <a href="#second">
           <PortfolioIcon />
         </a>
-        <a href="#third">
-          <ResumeIcon />
-        </a>
         <a href="#fourth">
           <ContactIcon />
         </a>
@@ -51,10 +46,6 @@ const Nav = () => {
 
         <section id="second">
           <Projects />
-        </section>
-
-        <section id="third">
-          <h1>Third</h1>
         </section>
 
         <section id="fourth">

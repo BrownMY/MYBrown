@@ -10,11 +10,11 @@ const Projects = () => {
             <img
               class="img1"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526306/selene1_etkknp.png"
-            />
+              alt="Frontpage for the webapp, Selene"/>
             {/* <img
               class="img2"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526306/selene2_smpb7i.png"
-            /> */}
+            alt="A page for the webapp, Selene"/> */}
           </div>
         </a>
         <a href="http://farmony-2.herokuapp.com/">
@@ -23,11 +23,11 @@ const Projects = () => {
             <img
               class="img1"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526303/farmony1_ticyyk.png"
-            />
+              alt="Frontpage for the webapp, Farmony"/>
             {/* <img
               class="img2"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526304/farmony2_rchv8z.png"
-            /> */}
+            alt="A page for the webapp, Farmony"/> */}
           </div>
         </a>
         <a href="https://m-u-s-e.herokuapp.com/">
@@ -36,11 +36,11 @@ const Projects = () => {
             <img
               class="img1"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526308/muse1_t8d5fc.png"
-            />
+            alt="Frontpage for the webapp, Muse"/>
             {/* <img
               class="img2"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526301/muse2_t9yd64.png"
-            /> */}
+            alt="A page for the webapp, Muse"/> */}
           </div>
         </a>
         <a href="https://brownmy.github.io/Project-1-Game/">
@@ -49,11 +49,11 @@ const Projects = () => {
             <img
               class="img1"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526294/door-defense1_necscw.png"
-            />
+              alt="Frontpage for the web game, Door Defense"/>
             {/* <img
               class="img2"
               src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526293/door-defense2_brtk1d.png"
-            /> */}
+            alt="A page for the web game, Door Defense"/> */}
           </div>
         </a>
       </div>

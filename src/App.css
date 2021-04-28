@@ -217,13 +217,14 @@ section:target h1 {
 .about-main {
   /* font-family: 'Montserrat Alternates', sans-serif; */
   font-family: "Quicksand", sans-serif;
-  max-width: 800px;
+  max-width: 900px;
   margin-top: 60px;
   color: white;
   font-size: 20px;
   /* border: 2px solid #ffe4bd; */
   padding: 60px;
   background-color: rgba(255, 200, 117, 0.59);
+  border-radius: 20px;
 }
 
 .about-brand {
@@ -251,6 +252,9 @@ h3 {
   letter-spacing: 3px;
 }
 
+h4 {
+  padding: 10px;
+}
 /* PROJECTS */
 
 .project-bg {
@@ -280,6 +284,7 @@ h3 {
   margin-top: 25px;
   margin: 5px;
   overflow: hidden;
+  border-radius: 10px;
 }
 
 .img1 {
@@ -294,21 +299,24 @@ h3 {
 
 .app-descrip {
   position: absolute;
-  width: 400px;
+  width: 450px;
+  height: 180px;
   z-index: 2;
   padding: 20px;
   font-size: 20px;
   color: white;
   font-family: "Quicksand", sans-serif;
   background-color: rgba(255, 103, 2, 0.69);
-  opacity: 0;
+  opacity: 1;
+  border-radius: 10px;
 }
 
 span
 
 .app-descrip:hover {
   position: absolute;
-  width: 400px;
+  width: 450px;
+  height: 180px;
   z-index: 2;
   padding: 20px;
   font-size: 20px;

@@ -1,6 +1,7 @@
 import React from "react";
 import Home from "./Home";
 import Projects from "./Projects";
+import Contact from "./Contact";
 import HomeIcon from "./icons/HomeIcon";
 import PortfolioIcon from "./icons/PortfolioIcon";
 import ResumeIcon from "./icons/ResumeIcon";
@@ -57,7 +58,7 @@ const Nav = () => {
         </section>
 
         <section id="fourth">
-          <h1>Fourth</h1>
+          <Contact />
         </section>
       </div>
     </div>

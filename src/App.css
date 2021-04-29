@@ -337,8 +337,8 @@ a {
 
 .app-descrip {
   position: absolute;
-  width: 650px;
-  height: 200px;
+  width: 500px;
+  height: 250px;
   z-index: 2;
   padding: 30px;
   font-size: 20px;
@@ -351,8 +351,8 @@ a {
 
 .app-descrip:hover {
   position: absolute;
-  width: 450px;
-  height: 200px;
+  width: 500px;
+  height: 260px;
   z-index: 2;
   padding: 30px;
   font-size: 20px;
@@ -361,6 +361,17 @@ a {
   background-color: rgba(255, 103, 2, 0.69);
   opacity: 1;
   border-radius: 10px;
+}
+
+.project-title {
+  margin-top: -20px;
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+
+.project-link{
+ color:rgb(254, 255, 218);
+ padding: 0 10px;
 }
 
           /* CONTACT */

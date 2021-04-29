@@ -222,6 +222,7 @@ section:target h1 {
   font-size: 30px;
   font-family: 'Abel', sans-serif;
   margin-top: 10px;
+  letter-spacing: 1px;
   
 }
 
@@ -256,9 +257,20 @@ h1 {
   font-style: italic;
   letter-spacing: 10px;
   top: 0;
-  padding: 15px;
+  padding-top: 15px;
   width: 100%;
-  background-color: #ffb71c;
+  height: 110px;
+  background-color: rgb(255, 182, 46);
+  
+}
+
+.pronouns {
+  font-size: 20px;
+  position: absolute;
+  top: 75px;
+  font-family: "Quicksand", sans-serif;
+  color: rgb(254, 255, 218);
+  
 }
 
 h3 {

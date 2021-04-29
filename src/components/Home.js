@@ -4,8 +4,9 @@ const Home = () => {
   return (
     <div class="about-container">
         <h1>Mocha Brown</h1>
+        <span class="pronouns">She / Her</span>
       <main class="about-main">
-        <img class="me-img" src="https://res.cloudinary.com/doihe1pi6/image/upload/v1619644039/portrait_jz31o2.png" alt="pixel art style portrait of Mocha"></img>
+        <img class="me-img" src="https://res.cloudinary.com/doihe1pi6/image/upload/v1619644039/portrait_jz31o2.png" alt="pixel art style portrait of"></img>
         <h3 class="h3-about"> Full-Stack Web Developer </h3>
         <p class="about-brand">
          I am an essential worker turned full-stack web developer through General Assembly's Software Engineering Immersive Remote Program. I have built apps with MERN stack, Django and PostgreSQL.  As both an artist and developer, I am driven by my desire to find technical solutions for both pressing and casual needs. My creativity allows me to express my abilities in new and unique ways. 

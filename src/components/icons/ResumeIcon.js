@@ -6,9 +6,7 @@ const ResumeIcon = () => {
     <div>
       <div class="icon">
         <NoteOutlinedIcon style={{ fontSize: 50 }} />
-        <p class="p-nav">Resume</p>
       </div>
-      <p class="p-mobile">R</p>
     </div>
   );
 };

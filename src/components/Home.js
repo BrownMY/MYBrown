@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const Home = () => {
   return (
     <div class="about-container">
@@ -20,7 +21,7 @@ const Home = () => {
           ⁎ JSON ⁎ APIs
         </p>
         <h4>Resume</h4>
-        <p class="click-resume">Click <a href="public\Mocha-Brown-Resume.pdf" download>here</a> to view my resume.</p>
+        <p class="click-resume">Click <a href="https://www.canva.com/design/DAEbq9eqvNM/864q0OVaKqghFJ5f9Kp4MA/view?utm_content=DAEbq9eqvNM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" target="_blank" rel="noreferrer">here</a> to view my resume.</p>
         
       </main>
     </div>

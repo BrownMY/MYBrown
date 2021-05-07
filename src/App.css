@@ -506,4 +506,12 @@ a {
     opacity: 1;
     border-radius: 10px;
   }
+
+  .h3-contact {
+    font-size: 20px;
+  }
+
+  .contact-container {
+    max-width: 250px;
+  }
 }

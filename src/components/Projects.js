@@ -17,7 +17,7 @@ const Projects = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Visit Site
+              Live Site
             </a>
             <a
               class="project-link"
@@ -55,7 +55,7 @@ const Projects = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Visit Site
+              Live Site
             </a>
             <a
               class="project-link"
@@ -98,7 +98,7 @@ const Projects = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Visit Site
+              Live Site
             </a>
             <a class="project-link" href="https://github.com/BrownMY/Muse-" 
             target="_blank"

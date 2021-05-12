@@ -51,7 +51,7 @@ const Projects = () => {
             <br />
             <a
               class="project-link"
-              href="http://farmony-2.herokuapp.com/"
+              href="https://farmonyforum.herokuapp.com/"
               target="_blank"
               rel="noreferrer"
             >

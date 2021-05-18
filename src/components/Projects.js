@@ -130,7 +130,7 @@ const Projects = () => {
             <br />
             <a
               class="project-link"
-              href="https://brownmy.github.io/Project-1-Game/"
+              href="https://brownmy.github.io/Door-Defense/"
               target="_blank"
               rel="noreferrer"
             >

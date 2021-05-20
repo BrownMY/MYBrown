@@ -3,6 +3,7 @@ import React from "react";
 const Projects = () => {
   return (
     <div class="project-bg">
+      <h1>Projects</h1>
       <div class="project-container">
         <div class="project" id="project1">
           <div class="app-descrip">

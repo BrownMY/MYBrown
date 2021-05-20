@@ -4,7 +4,7 @@ import React from "react";
 const Home = () => {
   return (
     <div class="about-container">
-        <h1>Mocha Brown</h1>
+        <h1 class="home-name">Mocha Brown</h1>
         <span class="pronouns">She / Her</span>
       <main class="about-main">
         <img class="me-img" src="https://res.cloudinary.com/doihe1pi6/image/upload/v1619644039/portrait_jz31o2.png" alt="pixel art style portrait of"></img>

@@ -234,7 +234,7 @@ section:target h1 {
   max-width: 900px;
   margin-top: 400px;
   color: rgb(254, 255, 218);
-  font-size: 20px;
+  font-size: 1.7vw;
   /* border: 2px solid #ffe4bd; */
   padding: 40px;
   background-color: rgba(243, 156, 56, 0.59);
@@ -243,7 +243,8 @@ section:target h1 {
 
 .about-brand {
   margin: 0 auto;
-  padding: 30px;
+  padding: 3vh;
+  text-align: justify;
 }
 
 .me-img {
@@ -281,13 +282,15 @@ h3 {
 }
 
 .p-home {
-  font-size: 20px;
+  font-size: 2vw;
   text-align: center;
   letter-spacing: 2px;
+  width: 45vw;
+  margin: 0 auto;
 }
 
 h4 {
-  padding-top: 30px;
+  padding: 3vh;
   font-family: "Abel", sans-serif;
   letter-spacing: 3px;
 }
@@ -345,7 +348,7 @@ a {
   height: 250px;
   z-index: 2;
   padding: 30px;
-  font-size: 20px;
+  font-size: 1vw;
   color: white;
   font-family: "Quicksand", sans-serif;
   background-color: rgba(255, 103, 2, 0.69);
@@ -355,11 +358,11 @@ a {
 
 .app-descrip:hover {
   position: absolute;
-  width: 500px;
-  height: 260px;
+  width: 35vw;
+  height: 33vh;
   z-index: 2;
-  padding: 30px;
-  font-size: 20px;
+  padding: 2.2vw;
+  font-size: 1.3vw;
   color: white;
   font-family: "Quicksand", sans-serif;
   background-color: rgba(255, 103, 2, 0.69);
@@ -373,9 +376,16 @@ a {
   font-size: 25px;
 }
 
+.technology {
+  margin-bottom: 5vh;
+}
+
 .project-link {
   color: rgb(254, 255, 218);
-  padding: 0 10px;
+  background-color: #ffe6bf;
+  border-radius: 2vh;
+  margin: 2.5vh .2vw;
+  padding: .6vw;
 }
 
 /* CONTACT */
@@ -521,7 +531,8 @@ a {
   }
 
   .project-link {
-    width: 300px;
+    position: relative;
+    top: 1vh;
     color: white;
     font-family: "Quicksand", sans-serif;
     background-color: rgba(255, 103, 2, 0.69);

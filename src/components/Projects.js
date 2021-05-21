@@ -10,7 +10,7 @@ const Projects = () => {
             <p class="project-title">Selenê</p>
             <p>An online self-care retail shop. Created as a team of three.</p>
             <br />
-            <span>Django | Python | PostgreSQL</span>
+            <span class="technology">Django | Python | PostgreSQL</span>
             <br />
             <a
               class="project-link"
@@ -26,7 +26,7 @@ const Projects = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Github
+              Code
             </a>
           </div>
           <img
@@ -48,7 +48,7 @@ const Projects = () => {
               farmers. Created as a team of three.
             </p>
             <br />
-            <span> MongoDB | Mongoose | React | Javascript | Node.js</span>
+            <span class="technology"> MongoDB | Mongoose | React | Javascript | Node.js</span>
             <br />
             <a
               class="project-link"
@@ -62,15 +62,15 @@ const Projects = () => {
               class="project-link"
               href="https://github.com/BrownMY/Farmony-frontend"
               target="_blank"
-          rel="noreferrer"
+              rel="noreferrer"
             >
-              Github (Front-end)
+              Code (Front-end)
             </a>
             <a class="project-link" href="https://github.com/BrownMY/Farmony"
-            target="_blank"
-            rel="noreferrer">
-              
-              Github (Back-end)
+              target="_blank"
+              rel="noreferrer">
+
+              Code (Back-end)
             </a>
           </div>
           <img
@@ -91,7 +91,7 @@ const Projects = () => {
               artist's block. Uses API from Harvard and Rijks collections.
             </p>
             <br />
-            <span>Express.js | Sequelize | PostgreSQL | Node.js</span>
+            <span class="technology">Express.js | Sequelize | PostgreSQL | Node.js</span>
             <br />
             <a
               class="project-link"
@@ -101,10 +101,10 @@ const Projects = () => {
             >
               Live Site
             </a>
-            <a class="project-link" href="https://github.com/BrownMY/Muse-" 
-            target="_blank"
-            rel="noreferrer">
-              Github
+            <a class="project-link" href="https://github.com/BrownMY/Muse-"
+              target="_blank"
+              rel="noreferrer">
+              Code
             </a>
           </div>
           <img
@@ -120,14 +120,14 @@ const Projects = () => {
 
         <div class="project" id="project4">
           <div class="app-descrip">
-            
+
             <p class="project-title">Door Defense</p>
             <p>
               Door Defense is my first ever app built. It is inspired by my
               experience as an essential worker during a global pandemic.
             </p>
             <br />
-            <span>HTML | CSS | Javascript</span>
+            <span class="technology">HTML | CSS | Javascript</span>
             <br />
             <a
               class="project-link"
@@ -141,9 +141,9 @@ const Projects = () => {
               class="project-link"
               href="https://github.com/BrownMY/Door-Defense/tree/master"
               target="_blank"
-          rel="noreferrer"
+              rel="noreferrer"
             >
-              Github
+              Code
             </a>
           </div>
           <img

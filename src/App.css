@@ -234,7 +234,7 @@ section:target h1 {
   max-width: 900px;
   margin-top: 60vh;
   color: rgb(254, 255, 218);
-  font-size: 1.7vw;
+  font-size: 20px;
   /* border: 2px solid #ffe4bd; */
   padding: 40px;
   background-color: rgba(243, 156, 56, 0.59);
@@ -467,7 +467,7 @@ a {
   }
 
   .about-main {
-    margin-top: 185vh;
+    margin-top: 255vh;
     width: 280px;
     margin-left: 25px;
     display: flex;
@@ -485,7 +485,7 @@ a {
     position: relative;
     width: 230px;
     margin: 0 auto;
-    left: -25px;
+    left: -5vw;
   }
 
   .about-container {

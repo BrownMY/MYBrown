@@ -64,13 +64,13 @@ const Projects = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Code (Front-end)
+              Code (Frontend)
             </a>
             <a class="project-link" href="https://github.com/BrownMY/Farmony"
               target="_blank"
               rel="noreferrer">
 
-              Code (Back-end)
+              Code (Backend)
             </a>
           </div>
           <img

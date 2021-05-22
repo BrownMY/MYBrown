@@ -358,7 +358,7 @@ a {
 
 .app-descrip:hover {
   position: absolute;
-  width: 35vw;
+  width: 35.5vw;
   height: 33vh;
   z-index: 2;
   padding: 2.2vw;
@@ -381,11 +381,15 @@ a {
 }
 
 .project-link {
-  color: rgb(254, 255, 218);
+  position: relative;
+  top: 3vh;
+  color: rgb(212, 124, 9);
   background-color: #ffe6bf;
-  border-radius: 2vh;
+  border-radius: 2.5vh;
   margin: 2.5vh .2vw;
+  font-size: 17px;
   padding: .6vw;
+  text-decoration: none;
 }
 
 /* CONTACT */

@@ -16,9 +16,8 @@ const Home = () => {
             Skills
         </h4>
         <p className="p-home">
-          Javascript ⁎ Html ⁎ CSS ⁎ Python ⁎ React ⁎ Node.js ⁎ Express.js ⁎
-          PostgreSQL ⁎ Sequelize ⁎ ORM ⁎ MongoDB ⁎ Mongoose ⁎ RESTful ⁎ Routing
-          ⁎ JSON ⁎ APIs
+          Javascript ⁎ Html ⁎ CSS ⁎ Python ⁎ React ⁎ Vue ⁎ Node.js ⁎ Agile ⁎ Express.js ⁎ Hapi ⁎
+          PostgreSQL ⁎ Sequelize ⁎ ORM ⁎ MongoDB ⁎ Mongoose ⁎ RESTful APIs ⁎ Docker ⁎ Amazon S3 ⁎ Jest ⁎ Mocha ⁎ Chai ⁎ Github Actions ⁎ 
         </p>
         <h4>Resume</h4>
         <p class="click-resume">Click <a href="https://www.canva.com/design/DAEbq9eqvNM/864q0OVaKqghFJ5f9Kp4MA/view?utm_content=DAEbq9eqvNM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" target="_blank" rel="noreferrer">here</a> to view my resume.</p>

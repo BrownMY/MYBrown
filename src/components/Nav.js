@@ -26,8 +26,12 @@ const Nav = () => {
             <span>BROWN</span>
           </span>
         </div>
+        <p className="subtitle-container">
+          <span className="subtitle1">Software </span>
+          <span className="subtitle2">Engineer</span>
+        </p>
       </section>
-      <nav> 
+      <nav>
         <a href="#first">
           <HomeIcon />
         </a>

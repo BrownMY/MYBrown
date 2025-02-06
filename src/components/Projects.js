@@ -48,7 +48,10 @@ const Projects = () => {
               farmers. Created as a team of three.
             </p>
             <br />
-            <span class="technology"> MongoDB | Mongoose | React | Javascript | Node.js</span>
+            <span class="technology">
+              {" "}
+              MongoDB | Mongoose | React | Javascript | Node.js
+            </span>
             <br />
             <a
               class="project-link"
@@ -66,16 +69,18 @@ const Projects = () => {
             >
               Code (Frontend)
             </a>
-            <a class="project-link" href="https://github.com/BrownMY/Farmony"
+            <a
+              class="project-link"
+              href="https://github.com/BrownMY/Farmony"
               target="_blank"
-              rel="noreferrer">
-
+              rel="noreferrer"
+            >
               Code (Backend)
             </a>
           </div>
           <img
             class="img1"
-            src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526303/farmony1_ticyyk.png"
+            src="https://res.cloudinary.com/doihe1pi6/image/upload/v1738805672/puu9qqolxsali3afu1wt.png"
             alt="Frontpage for the webapp, Farmony"
           />
           {/* <img
@@ -87,29 +92,32 @@ const Projects = () => {
           <div class="app-descrip">
             <p class="project-title">Muse</p>
             <p>
-              Muse is a creative prompt app for helping visual artists overcome
+              Muse is a creative prompt app for helping artists overcome
               artist's block. Uses API from Harvard and Rijks collections.
             </p>
             <br />
-            <span class="technology">Express.js | Sequelize | PostgreSQL | Node.js</span>
+            <span class="technology">React</span>
             <br />
             <a
               class="project-link"
-              href="https://m-u-s-e.herokuapp.com/"
+              href="https://luxury-macaron-9d78f2.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
               Live Site
             </a>
-            <a class="project-link" href="https://github.com/BrownMY/Muse-"
+            <a
+              class="project-link"
+              href="https://github.com/BrownMY/Muse-"
               target="_blank"
-              rel="noreferrer">
+              rel="noreferrer"
+            >
               Code
             </a>
           </div>
           <img
             class="img1"
-            src="https://res.cloudinary.com/doihe1pi6/image/upload/v1618526308/muse1_t8d5fc.png"
+            src="https://res.cloudinary.com/doihe1pi6/image/upload/v1738805243/ifubtghfxj71ozk3bzvv.png"
             alt="Frontpage for the webapp, Muse"
           />
           {/* <img
@@ -120,7 +128,6 @@ const Projects = () => {
 
         <div class="project" id="project4">
           <div class="app-descrip">
-
             <p class="project-title">Door Defense</p>
             <p>
               Door Defense is my first ever app built. It is inspired by my

@@ -3,8 +3,6 @@ import React from "react";
 const Home = () => {
   return (
     <div class="about-container">
-      <h1 class="home-name">Mocha Brown</h1>
-      <span class="pronouns">She / Her</span>
       <main class="about-main">
         <div className="about-header-container">
           <img
@@ -13,7 +11,9 @@ const Home = () => {
             alt="pixel art style portrait of"
           ></img>
           <div className="about-me-body">
-            <h3 class="h3-about"> Full-Stack Software Engineer </h3>
+            <h2 class="home-name">Mocha Brown</h2>
+            <p class="pronouns">She / Her</p>
+            <h4 class="h4-about"> Full-Stack Software Engineer </h4>
             <p class="about-brand">
               Hi there! I’m a full-stack software engineer from Detroit,
               Michigan who loves blending creativity and technology. With a

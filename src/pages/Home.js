@@ -27,9 +27,9 @@ const Home = () => {
         <h4 class="skills">Skills</h4>
         <p className="p-home">
           Javascript ⁎ Typescript * Java ⁎ Python ⁎ React ⁎ Angular * Vue ⁎
-          Spring Boot * Node.js ⁎ Express.js ⁎ Hapi ⁎ PostgreSQL ⁎ Oracle *
-          Sequelize ⁎ MongoDB ⁎ Mongoose ⁎ RESTful APIs ⁎ Docker ⁎ Amazon S3 ⁎
-          Jest ⁎ Mocha ⁎ Agile ⁎ Chai ⁎ Github Actions ⁎
+          Spring Boot * Node.js ⁎ Kafka * Express.js ⁎ Hapi ⁎ PostgreSQL ⁎
+          Oracle * Sequelize ⁎ MongoDB ⁎ Mongoose ⁎ RESTful APIs ⁎ Docker ⁎
+          Amazon S3 ⁎ Jest ⁎ Mocha ⁎ Agile ⁎ Chai ⁎ Mockito
         </p>
         <h4>Resume</h4>
         <p class="click-resume">

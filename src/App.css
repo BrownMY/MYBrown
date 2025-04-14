@@ -248,14 +248,12 @@ section:target h1 {
 }
 
 .about-main {
-  /* font-family: 'Montserrat Alternates', sans-serif; */
   font-family: "Quicksand", sans-serif;
   font-weight: 300;
   max-width: 85vw;
   margin-left: 8vw;
   color: rgb(254, 255, 218);
   font-size: 1.5em;
-  /* border: 2px solid #ffe4bd; */
   padding: 40px;
   background-color: var(--secondary-color);
   border-radius: 20px;
